@@ -68,6 +68,6 @@ Baseline trading algorithm provided an accuracy of 0.55 for the SVC model and 0.
 
 Overall, the SVC Classifier Model had higher accuracy and higher cumulative return than the Linear Regression Model across various inputs. 
 
-Adjusting the size of training dataset from 3 months to 6 months led to slighlty increasing accuracy and greater cumulative returns in the two models. This provided the most improvement in accuracy and cumulative returns compared to other adjustments to the model.
+Adjusting the size of training dataset from 3 months to 6 months led to slighlty higher accuracy and greater cumulative returns in the two models. This provided the most improvement in accuracy and cumulative returns compared to other adjustments to the model.
 
-Adjusting the SMA input features to increase rolling windows to 50 for Fast SMA and 200 for Slow SMA led to slight decrease in accuracy as wel as slight decrease cumulative returns across two models. The linear regression model appear to be more impacted by adjustments to SMA windows. 
+Adjusting the SMA input features to increase rolling windows to 50 for Fast SMA and 200 for Slow SMA led to slight decrease in accuracy as well as slight decrease in cumulative returns across two models. The linear regression model appear to be more impacted by adjustments to SMA windows.
